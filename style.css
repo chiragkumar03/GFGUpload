@@ -1,0 +1,129 @@
+table {
+    padding:20px;
+}
+
+*{
+    overflow-x: hidden;
+}
+
+td{
+   padding: 20px;  
+   
+}
+
+img {
+    border-radius: 1rem;
+    overflow: hidden;
+}
+
+#head{
+    font-family: sans-serif;
+    color: #5a4bda;
+    text-align: center;
+    text-decoration: none;
+    padding: 0px 160px 0px ;
+    font-size: 50px;
+    /* border: 5px dotted #5a4bda ; */
+}
+
+#home{
+    display: inline;
+    border-spacing: 35px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+#header{
+    text-align: center;
+    font-family: sans-serif;
+    color: #5a4bda;
+}
+
+.about{
+    text-align: justify;
+    font-family: sans-serif;
+    
+}
+#intro{
+    padding: 0px;
+    
+}
+
+ #services{
+    font-family: sans-serif;
+ }
+
+ #doctor{
+    font-family: sans-serif;
+    
+ }
+
+ .tdThing {
+    margin-top: 2rem;
+ }
+/* colors -> hsla 
+    h - hu (color type)
+    s - saturation
+    l - lightness
+    a - alpha (transparency)
+*/
+
+a{
+    text-decoration: none;
+}
+
+p, h2{
+    padding: 20px;
+}
+
+h3{
+    padding: 0px 110px;
+}
+
+img{
+    padding: 20px;
+}
+
+/* th:hover{
+    background: orange;
+} */
+td:hover{
+    /* background: pink; */
+    text-decoration: underline;
+}
+
+
+h2{
+   text-align: center;
+   color: purple;
+}
+h2:hover{
+    text-decoration: underline;
+}
+
+#footer{
+    padding: 10px;
+    text-align: center;
+    background: #5b596e;
+    /* background: skyblue; */
+    color: white;
+    font-family: sans-serif;
+}
+
+th{
+    padding: 0px 10px; 
+}
+
+.profession{  
+    color: purple;
+    font-family: sans-serif;
+}
+
+
+.c{
+    font-size: 17px;
+}
+
+.new{
+    font-family: sans-serif;
+}
